@@ -1,6 +1,7 @@
 # Mini-Copilot
 
 COSC 329 Learning Analytics – Term Project (Option 1: Mini-Copilot)
+
 Vlad Petrariu (solo)
 
 ## Overview
